@@ -1,7 +1,7 @@
 Repo for Delphi based ZX81 remakes. Converted to Lazarus and Free PASCAL.
 
-- Fungaloids for Windows
-- Caverns for Windows
+- Fungaloids for Windows and Linux
+- Caverns for Windows and Linux
 
 Executables in the zip folders : lib\x86_64-win64
 
